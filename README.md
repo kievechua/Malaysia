@@ -1,8 +1,12 @@
 # Intro
-A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of government, electoral process, education and culture.
+A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of education, culture, electoral process and government.
 
 ## Education
-- Improve technology based education in Technology area, start from primary school.
+1. Improve technology based education in Technology area, start from primary school.
+
+## Culture
+1. Stop giving **duit kopi** to all government staff, e.g. traffic summon.
+- More active in reporting corruption, do the right thing.
 
 ## Electoral Process
 1. Electoral area is divide by population density.
@@ -17,7 +21,3 @@ A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wi
 - Better financial management.
     - [Expenses on illegal foreigners](http://www.themalaymailonline.com/malaysia/article/lawmakers-rm2m-food-budget-a-day-for-illegal-foreigners-hard-to-swallow)
 - Fairness to all citizen.
-
-## Culture
-- Stop giving **duit kopi** to all government staff, e.g. traffic summon.
-- More active in reporting corruption, do the right thing.
