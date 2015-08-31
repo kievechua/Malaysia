@@ -1,5 +1,7 @@
+Happy 58th birthday to Malaysia, happy hari Merdeka!!
+
 # Intro
-A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of education, culture, electoral process and government.
+A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of education, culture, electoral process and government, in a more practical way.
 
 ## Education
 1. Improve technology based education in Technology area, start from primary school.
