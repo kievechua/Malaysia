@@ -1,5 +1,8 @@
 # Intro
-A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of government, electoral process and culture.
+A repo to suggest a better way to improve [Malaysia](https://en.wikipedia.org/wiki/Malaysia) in form of government, electoral process, education and culture.
+
+## Education
+- Improve technology based education in Technology area, start from primary school.
 
 ## Electoral Process
 1. Electoral area is divide by population density.
